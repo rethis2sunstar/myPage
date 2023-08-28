@@ -1,0 +1,49 @@
+header {
+  background-color: lightgreen;
+  color: black;
+}
+.navBar {
+  text-align: end;
+  list-style-type: none;
+}
+ul {
+}
+li {
+  display: inline;
+
+  font-family: sans-serif;
+  font-size: 3em;
+  border: 2px solid green;
+  background-color: lightgrey;
+}
+img {
+  height: 10em;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+section {
+  border: 5em;
+  background-color: lightblue;
+  color: black;
+  font-size: 2em;
+}
+strong {
+  text-align: center;
+  font-size: 5em;
+}
+.myHobbies {
+  text-align: center;
+}
+.makeMeBlock {
+  display: block;
+  font-size: 2em;
+}
+#contactMe {
+  font-size: 10pt;
+}
+
+footer {
+  font-size: 14pt;
+  text-align: center;
+  background-color: lightgreen;
+}
